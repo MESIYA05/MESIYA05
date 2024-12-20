@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me :
- <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mesiya-a-5aaa352a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ <br/><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>(https://www.linkedin.com/in/mesiya-a-5aaa352a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm Pro Gamer of FF
 - ### I code in
